@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6662d4d927fb5964ec6a9eda"
+  },
+  "name": "Student",
+  "email": "student@gmail.com",
+  "message": "it was so helpful",
+  "createdAt": {
+    "$date": "2024-06-07T09:37:29.416Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-07T09:37:29.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6663d95ffdd1321320739560"
+  },
+  "name": "Student1",
+  "email": "student1@gmail.com",
+  "message": "The placement website is incredibly user-friendly and has a vast array of job listings that are updated regularly. The application process is seamless, and the resources provided have been instrumental in preparing for interviews.",
+  "createdAt": {
+    "$date": "2024-06-08T04:09:03.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T04:09:03.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ab3191041432f6a3b7227"
+  },
+  "name": "Rahul",
+  "email": "rahul@gmail.com",
+  "message": "The website is incredibly easy to navigate. I found relevant job listings quickly and the application process was seamless. ",
+  "createdAt": {
+    "$date": "2024-06-13T08:51:37.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T08:51:37.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ab3271041432f6a3b7229"
+  },
+  "name": "Raaju",
+  "email": "raaju@gmail.com",
+  "message": "I was impressed with the wide variety of job postings available. There are opportunities in many different fields, which is exactly what I was looking for.",
+  "createdAt": {
+    "$date": "2024-06-13T08:51:51.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T08:51:51.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ab3381041432f6a3b722b"
+  },
+  "name": "Ravi",
+  "email": "ravi@gmail.com",
+  "message": "Overall, the site is good, but it would be even better if there were more filters to refine job searches. Sometimes it's hard to narrow down the options.",
+  "createdAt": {
+    "$date": "2024-06-13T08:52:08.101Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T08:52:08.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673f5e066a6170a351dda52"
+  },
+  "name": "Customer",
+  "email": "admin@gmail.com",
+  "message": "is there any vacancy for accountant",
+  "createdAt": {
+    "$date": "2024-06-20T09:26:56.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T09:26:56.971Z"
+  },
+  "__v": 0
+}]

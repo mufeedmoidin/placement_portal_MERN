@@ -1,0 +1,9 @@
+/* Define the hover effect for the links */
+.link {
+  transition: color 0.3s ease-in-out;
+  /* background-color: red; */
+}
+
+.link:hover {
+  color: #ffcc00; /* Change this to your desired hover color */
+}

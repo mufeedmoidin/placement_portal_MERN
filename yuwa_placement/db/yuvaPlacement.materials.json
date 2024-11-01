@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "666a89cf7b4b8605fdf14b70"
+  },
+  "title": "Interview Preperation",
+  "material": "1718260586228-592926202-PITCH PERFECT FÃTSAL  SYNOPSIS.pdf",
+  "caption": "In this file there is self introduction and basic technial questions with answers",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T05:55:27.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T06:44:45.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a98276f2682c8d5128301"
+  },
+  "title": "Basic HTML",
+  "material": "1718261799677-692410851-Waste management or waste disposal.pdf",
+  "caption": "This file includes basic questions and answers about HTML",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T06:56:39.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T06:56:39.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a987e6f2682c8d5128305"
+  },
+  "title": "JavaScript",
+  "material": "1718261886135-648432078-DIPtimetable.pdf",
+  "caption": "This file includes basic javascript questions and answers",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T06:58:06.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T06:58:06.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a99596f2682c8d5128309"
+  },
+  "title": "React",
+  "material": "1718262105245-202969450-SRS - SHE CREATES SPACE.pdf",
+  "caption": "Basic react concepts and questions with answers",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T07:01:45.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T07:01:45.250Z"
+  },
+  "__v": 0
+}]

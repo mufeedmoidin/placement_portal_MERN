@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6667dfba5d9b4aaffcf3144a"
+  },
+  "RegNumber": "321",
+  "name": "Rahul",
+  "phone": "9867654321",
+  "email": "student1@gmail.com",
+  "password": "$2b$10$dZcLACLmbEepJtm90K97dus3MSidzvgMwA7QBifyNUe4O5fgeeHB6",
+  "profile": "1718345067165-514899056-reflectionsit_logo.jpg",
+  "skills": [],
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-11T05:25:14.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T09:27:45.423Z"
+  },
+  "__v": 0
+}]

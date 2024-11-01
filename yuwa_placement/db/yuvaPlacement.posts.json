@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "666abab81041432f6a3b728f"
+  },
+  "companyData": {
+    "name": "OneOrigin",
+    "logo": "1718270648963-552665897-oneorigin_logo.jpg",
+    "about": "OneOrigin is one of the fastest-growing Technology Companies in the world, headquartered in Scottsdale, Arizona. With a mission to deliver value through astounding focus and exceptional innovative mindset, OneOrigin is empowering the technology shift within the Education sector from a reactive state to a proactive spirit.\r\n\r\nDedicated to innovation, OneOrigin designs and delivers cutting-edge products & solutions around Artificial Intelligence, Data & Analytics, Rapid Web Development, Virtual & Mixed Reality, and Cloud Computing, guiding the path to a meticulous Digital Transformation for its customers, with its State-of-the-Art products, Sia™ and SpotSearch™.\r\n\r\nIf you are on a mission to change, you start at OneOrigin.",
+    "website": "https://www.oneorigin.us/"
+  },
+  "jobTitle": "Web Developer",
+  "jobType": "On-site",
+  "jobTimeType": "Full Time",
+  "jobRole": "Mid-Senior level",
+  "jobVacancy": "10",
+  "jobLocation": "Bengaluru, Karnataka, India",
+  "jobExperience": "Freshers",
+  "jobSkills": [
+    "Proven working experience in web programming",
+    "Top-notch programming skills and in-depth knowledge of modern HTML/CSS",
+    "Familiarity with at least one of the following programming languages: PHP, ASP.NET, Javascript or Ruby on rails",
+    "Hands-on experience with network diagnostics, network analytics tools",
+    "Basic knowledge of Search Engine Optimization process",
+    "Aggressive problem diagnosis and creative problem solving skills",
+    "Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen",
+    "Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.",
+    "BS in computer science or a related field."
+  ],
+  "jobDescription": "OneOrigin, one of the world's rapidly expanding Technology Companies, proudly headquartered in the vibrant city of Scottsdale, Arizona, surrounded by the breathtaking landscapes of the Sonoran Desert. Our mission is to provide unparalleled value through extraordinary focus and a groundbreaking innovative mindset. With a mission to deliver value through astounding focus and exceptional innovative mindset, OneOrigin is empowering the technology shift within the Education sector from a reactive state to a proactive spirit.\r\n\r\n\r\nFounded in 2015, OneOrigin has an international footprint with Global Delivery and Product Development centers in Dubai and India. Dedicated to innovation, OneOrigin designs and delivers cutting-edge products & solutions around Artificial Intelligence, Data & Analytics, Rapid Web Development, Virtual & Mixed Reality, and Cloud Computing, guiding the path to a meticulous Digital Transformation for its customers.\r\n\r\n\r\nWith its State-of-the-Art products, Sia™ and SpotSearch™, OneOrigin is part of an Elite Disrupt companies list, alongside being featured on well-known technology forums such as TechCrunch, GSV, and Educause.",
+  "keyResponsibilities": [
+    "An innovative, market-leading enterprise solution with a growing customer base.",
+    "An exciting, nurturing culture that rewards a determined attitude of getting things done and problems solved.",
+    "Clear goals with an opportunity to learn new things and explore a variety of avenues.",
+    "Smart, well-connected global teams that work like a family with the sole aim to delight customers.",
+    "An open-minded approach to continuous improvement of people, product and processes."
+  ],
+  "mustHaves": [
+    "Write well-designed, testable, efficient code by using best software development practices",
+    "Create website layout/user interface by using standard HTML/CSS practices",
+    "Integrate data from various back-end services and databases",
+    "Gather and refine specifications and requirements based on technical needs",
+    "Create and maintain software documentation",
+    "Be responsible for maintaining, expanding, and scaling our site",
+    "Stay plugged into emerging technologies/industry trends and apply them into operations and activities",
+    "Cooperate with web designers to match visual design intent"
+  ],
+  "interviewDate": "30-06-2024",
+  "interviewLocation": "Bengalure",
+  "interviewMode": "Offline",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T09:24:08.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T09:24:08.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ac8891041432f6a3b72be"
+  },
+  "companyData": {
+    "name": "Taab Solutions",
+    "logo": "1718274185078-989564069-1713378179454.jpg",
+    "about": "In today's dynamic and ever-evolving digital landscape, businesses need a trusted partner to guide them through the complexities of digital transformation. Taab Solutions is a leading provider of comprehensive digital solutions, empowering businesses of all sizes to achieve their goals and thrive in the digital age.\r\n\r\nAt Taab Solutions, we pride ourselves on our deep expertise and unwavering commitment to delivering exceptional results. Our team of experienced professionals possesses a diverse range of skills, encompassing app development, website development, game development, digital marketing, PR and communications, and testing services.",
+    "website": "https://taabsolutions.com"
+  },
+  "jobTitle": "Laravel Full Stack Developer",
+  "jobType": "Hybrid",
+  "jobTimeType": "Full Time",
+  "jobRole": "Junior developer",
+  "jobVacancy": "10",
+  "jobLocation": "Gurgaon, Haryana, India",
+  "jobExperience": "1+ year experience",
+  "jobSkills": [
+    "HTML",
+    "JS",
+    "JQuery",
+    "CSS",
+    "JavaScript"
+  ],
+  "jobDescription": "Post: Laravel Full Stack Developer\r\nExperience: Min 2 Years of experience \r\nEducation: B.Tech/B.E./ M.Tech in Computers\r\nLocation: Gurgaon Sector-28",
+  "keyResponsibilities": [
+    "Strong Knowledge of Web & Application development.",
+    "Strong Knowledge of object-oriented PHP programming.",
+    "Strong in logic to solve the problems.",
+    "Understanding of MVC Architecture with knowledge of Any PHP MVC Framework.",
+    "Good understanding of database schemas, MySql queries, views, and procedures.",
+    "Knowledge of JSON-based RESTful APIs Designing and Development.",
+    "Understanding of front-end technologies, such as JavaScript/JQuery, HTML5 and CSS3"
+  ],
+  "mustHaves": [
+    "Should have a minimum of 1 years of experience in Web Application development.",
+    "Should have worked on MVC architect. ",
+    "Should have excellent hands-on experience in HTML, JS, JQuery, CSS, JavaScript, etc."
+  ],
+  "interviewDate": "30-06-2024",
+  "interviewLocation": "Bangalore",
+  "interviewMode": "Offline",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T10:23:05.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:23:05.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666acb461041432f6a3b72c7"
+  },
+  "companyData": {
+    "name": "Deuglo Infosystem Private Limited",
+    "logo": "1718274886685-469753985-deuglo_logo.jpg",
+    "about": "At Deuglo, we have assembled a talented team of Technical Writers, Web designers, developers, marketers, communications specialists, project managers, and business developers to work collaboratively on our client projects. We build on each other's expertise, working together in teams to generate great outcomes for projects.\r\n\r\nWhat makes our company great? That’s simple. It’s the people and the culture. The team members at Kijag are some of the most creative, interesting, and dedicated people you'll ever meet, exactly the kind of people you'd love to work with.\r\n\r\nWe focus on our client's business goals and deliver measurable solutions for online growth and greater brand loyalty. Before starting any project, we dive into our client's businesses to understand their value and marketplace. We then provide customized solutions that are tailored to generate results.",
+    "website": "https://www.deuglo.com/"
+  },
+  "jobTitle": "React JS Developer",
+  "jobType": "Hybrid",
+  "jobTimeType": "Full Time",
+  "jobRole": "Junior developer",
+  "jobVacancy": "10",
+  "jobLocation": "New Delhi, Delhi, India",
+  "jobExperience": "5+ yrs",
+  "jobSkills": [
+    "MongoDB",
+    "React.js",
+    "Redux.js",
+    "PostgreSQL",
+    "Django",
+    "Python (Programming Language)"
+  ],
+  "jobDescription": "Job Title - React JS Developer\r\nExperience - 5+ yrs\r\nJob Type - Full Time Contractual\r\nContract duration -6 months\r\nLocation - R .K Puram ,Delhi",
+  "keyResponsibilities": [
+    "5 years of experience with reactjs with material ui, redux etc",
+    "5 years of experience on developing webserver on python using flask, django or fast api",
+    "working knowledge of authentication and access control",
+    "fluent in data governance tools",
+    "5 years of experience in one of the database - postgres, mongo or Cassandra."
+  ],
+  "mustHaves": [
+    "Commute to this job's location",
+    "4+ years of work experience with Django",
+    "Can start immediately",
+    "4+ years of work experience with Python (Programming Language)",
+    "5+ years of work experience with React.js"
+  ],
+  "interviewDate": "01-07-2024",
+  "interviewLocation": "Delhi",
+  "interviewMode": "Offline",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T10:34:46.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:34:46.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ace021041432f6a3b72cc"
+  },
+  "companyData": {
+    "name": "Tata Consultancy Services",
+    "logo": "1718275586161-908799342-tata_consultancy_services_logo.jpg",
+    "about": "Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 55 years. Its consulting-led, cognitive powered, portfolio of business, technology and engineering services and solutions is delivered through its unique Location Independent Agile™ delivery model, recognized as a benchmark of excellence in software development. \r\n\r\nA part of the Tata group, India's largest multinational business group, TCS has over 603,305 of the world’s best-trained consultants in 55 countries. The company generated consolidated revenues of US $27.9 billion in the fiscal year ended March 31, 2023, and is listed on the BSE and the NSE in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index. For more information, visit www.tcs.com ",
+    "website": "https://www.tcs.com/"
+  },
+  "jobTitle": "Javascript Developer",
+  "jobType": "Remote",
+  "jobTimeType": "Full Time",
+  "jobRole": "Mid-Senior level",
+  "jobVacancy": "10",
+  "jobLocation": "Trivandrum, Kerala, India",
+  "jobExperience": "4-10 Years",
+  "jobSkills": [
+    "JavaScript",
+    "React.js",
+    "HTML5"
+  ],
+  "jobDescription": "Role** UI Web Developer\r\nRequired Technical Skill Set**React / Angular / Vue\r\nDesired Experience Range**4-10 Years\r\nLocation of Requirement** Trivandrum\r\nHighest Qualification** BE/Btech/MCA/MTech (Full Time)\r\nWalk-in Interview date: 15-Jun-24, Saturday\r\nDesired Competencies (Technical/Behavioral Competency)",
+  "keyResponsibilities": [
+    "Should have experience in Developing applications using React / Angular / Vue",
+    "Should have strong knowledge of React / Angular / Vue Framework Component Lifecycle and Redux.",
+    "Should have good Javascripting skills and know ECMA6 standards",
+    "Should have strong knowledge of working with npm , webpack .",
+    "Should have basic understanding of Java , Restful APIs , so as to be able to comprehend and develop UI Components accordingly.",
+    "Should be able to develop UI Framework components from the inputs given by UX Designer.",
+    "Should have experience in using third party libraries like Material UI / Paper UI"
+  ],
+  "mustHaves": [
+    "Should have sound knowledge in HTML5 , CSS , SCSS and should be able to develop Portable applications.",
+    "Should be able to debug performance issues in UI Application.",
+    "Experience in use of source code management system like SVN or GIT",
+    "Good written and verbal communication skills",
+    "Should have worked in Agile environment and should have expertise in Agile."
+  ],
+  "interviewDate": "15-06-2024",
+  "interviewLocation": "Tata Consultancy Services, Next to Technopark Main Gate, Trivandrum DC(SEZ),Technopark, Kariyavattom P.O, Trivandrum 695581",
+  "interviewMode": "Offline",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T10:46:26.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:46:26.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666acfd01041432f6a3b72d2"
+  },
+  "companyData": {
+    "name": "Reflections Info Systems",
+    "logo": "1718276048952-16929577-reflectionsit_logo.jpg",
+    "about": "Reflections Info Systems a Deloitte Technology Fast 50, is a technology innovation services provider that delivers ROI driven Data Science & Analytics, AI/ML, Cloud, Hyperautomation, Cybersecurity, RPA, App and Product Development, Blockchain and Metaverse solutions to some of the top global brands in: retail, banking and financial services, healthcare, logistics and transportation, automotive, and media and entertainment.\r\nReflections is backed by established investors: McLaren Strategic Ventures and the RP Group and by an over 600 team of creative, passionate industry experts and technology entrepreneurs, we have consistently grown by 500% in the last 4 years.\r\nReflections helps its customers unlock new business potential through cutting-edge technology innovation. Founded in 2008, Reflections now has operations in the US, Australia, Middle East, Brazil, and India. We are ISO 27001, ISO 9001, SOC 2 Type II & PCI DSS certified.",
+    "website": "https://www.reflectionsglobal.com/"
+  },
+  "jobTitle": "Full Stack Engineer",
+  "jobType": "Remote",
+  "jobTimeType": "Full Time",
+  "jobRole": "Mid-Senior level",
+  "jobVacancy": "15",
+  "jobLocation": "bangalore, India",
+  "jobExperience": "5+ years",
+  "jobSkills": [
+    "Angular",
+    "Full-Stack Development",
+    "HTML",
+    "Laravel",
+    "PHP",
+    "PHP Frameworks",
+    "React.js",
+    "Vue.js",
+    "Amazon Web Services (AWS)",
+    "Team Leadership"
+  ],
+  "jobDescription": "Act as a liaison between the product owner and the technical team to provide effective technical solutions for the requirements raised by the product owner\r\nDevelop comprehensive project plans that merge customer requirements with company goals and coordinate with various managers and technical personnel during all project phases, from initial development through implementation\r\nExecute the project in Agile methodology and deliver the requirements with proper sprint and release planning\r\nShould be able to prioritize and perform tasks effectively.",
+  "keyResponsibilities": [
+    "Should be able to prioritize and perform tasks effectively.",
+    "Knowledge of various project management tools like Jira.",
+    "Communicate proactively with all involved personnel to provide encouragement, identify problems, create solutions, and implement efficiency improvements.",
+    "Review proposed modifications on project plans, including meeting with interested parties to approve and implement beneficial changes.",
+    "Anticipate details of future projects by communicating directly with customers and staying informed of relevant trends and industry news.",
+    "Keep the technical and functional documentation updated as the system revolves around changes in functionality.\r\n"
+  ],
+  "mustHaves": [
+    "Reporting to CTO on project deliveries ",
+    "Should have minimum 11+ years of coding experience in various PHP frameworks.",
+    "Minimum 11 years experience in PHP, Angular/React/VueJs, HTML, Symphony, CSS, MySQL,AWS",
+    "Should have excellent Written and Oral communication skill.",
+    "Should have exposure to Front end technologies like Angular/React/Vue etc",
+    "Understanding the fully synchronous behavior of PHP design patterns.",
+    "Should have strong knowledge of writing reusable components.",
+    "Good understanding of front-end technologies, such as VueJs, HTML5, and CSS3."
+  ],
+  "interviewDate": "06-07-2024",
+  "interviewLocation": "Chennai",
+  "interviewMode": "Offline",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-06-13T10:54:08.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T10:54:08.958Z"
+  },
+  "__v": 0
+}]
